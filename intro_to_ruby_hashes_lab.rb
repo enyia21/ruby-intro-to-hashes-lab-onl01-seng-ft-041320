@@ -10,7 +10,6 @@ def actor
 end
 
 def monopoly
-	monopoly = Hash.new
 	monopoly[:railroads] = {}
 
 end

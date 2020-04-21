@@ -1,5 +1,6 @@
 def new_hash
-
+	nested_hash = {}
+	return nested_hash
 end
 
 def actor
